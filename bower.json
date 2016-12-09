@@ -1,0 +1,12 @@
+{
+  "name": "tree-model-bower",
+  "main": "dist/TreeModel.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
